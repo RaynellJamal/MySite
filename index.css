@@ -1,27 +1,23 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 
-body{
-    background: #ffffff;
-    font-family: "Merriweather";
+body {
+	background: #ffffff;
+	font-family: "Merriweather";
 }
 
-#nav-bar{
-    
+#nav-bar {
 }
 
-
-.menu{
-    
+.menu {
 }
 
-.hero-image img{
-    border-style: solid;
-    margin: 0 500px;
-    width: 1000px;
-    height: auto;
+.hero-image img {
+	border-style: solid;
+	margin: 0 500px;
+	width: 1000px;
+	height: auto;
 }
-
